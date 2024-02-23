@@ -43,4 +43,6 @@ Make sure you have Flutter and Dart installed on your machine.
 - **Shared Preferences:**
   - Shared Preferences is used to store data locally.
 
+Just connect the device with usb debugging or emulator and click on the run button, the app will work fine.
+
 This app was created as part of a Flutter project submission.
