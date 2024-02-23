@@ -12,6 +12,7 @@ This Flutter app showcases a simple two-screen structure with a button on the fi
 - **Second Screen:**
   - Displays a form with fields for name and email.
   - Implements form validation to ensure all fields are filled before submission.
+  - Regex is used for form validation and shared preference for saving the data
 
 ## Getting Started
 
