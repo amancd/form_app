@@ -1,16 +1,45 @@
-# form_app
+# Form App
 
-An Simple App To Demonstrate Form
+This Flutter app showcases a simple two-screen structure with a button on the first screen and a form with name and email fields on the second screen. Form validation ensures that all fields are filled before submission, and Flutter's state management is utilized for handling the form state.
+
+![Untitled design](https://github.com/amancd/form_app/assets/116139327/9beefe3d-032a-44e2-b50d-da3f71e99830)
+
+## Features
+
+- **First Screen:**
+  - Contains a button that navigates to the second screen.
+
+- **Second Screen:**
+  - Displays a form with fields for name and email.
+  - Implements form validation to ensure all fields are filled before submission.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Make sure you have Flutter and Dart installed on your machine.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/amancd/form_app.git
+   cd amancd/form_app
+
+2. Install dependencies:
+
+   ```bash
+   flutter pub get
+
+3. Run the app:
+
+   ```bash
+   flutter run
+
+## Acknowledgments
+
+- **Shared Preferences:**
+  - Shared Preferences is used to store data locally.
+
+This app was created as part of a Flutter project submission.
